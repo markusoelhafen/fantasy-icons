@@ -1,0 +1,19 @@
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  height="24"
+  width="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <polygon points="20.22 16.76 20.22 7.26 12.04 2.51 3.85 7.26 3.85 16.76 12.04 21.51 20.22 16.76"/>
+  <line x1="7.29" y1="9.26" x2="3.85" y2="7.26"/>
+  <line x1="20.22" y1="7.26" x2="16.79" y2="9.26"/>
+  <line x1="12.04" y1="17.44" x2="12.04" y2="21.51"/>
+  <polygon points="12.04 17.44 20.22 16.76 16.79 9.26 12.04 17.44"/>
+  <polygon points="12.04 17.44 7.29 9.26 3.85 16.76 12.04 17.44"/>
+  <polygon points="12.04 2.51 7.29 9.26 16.79 9.26 12.04 2.51"/>
+</svg>
