@@ -13,6 +13,7 @@ At the moment fantasy-icons is a collection of SVG files. This means that you ca
 - [x] Add first contribution guidelines
 ## Contributing
 Caught a mistake or want to contribute to the documentation? Edit this page on [Github](https://github.com/markusoelhafen/fantasy-icons/blob/master/README.md)
+Have a icon request? Create in [issue](https://github.com/markusoelhafen/fantasy-icons/issues/new?assignees=&labels=icon+request&template=icon_request.md&title=Icon+Request%3A+%5BName%5D).
 ## Thanks
 Thanks to [feather](https://github.com/feathericons/feather) for inspiring this little project
 ## License
