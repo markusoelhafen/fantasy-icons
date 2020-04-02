@@ -1,5 +1,7 @@
 ---
 name: Icon request
+title: Icon request: [Icon name]
+projects: Icon Design
 about: Suggest an new icon for this project
 ---
 
@@ -10,5 +12,4 @@ Before creating an icon request, please search to see if someone has requested t
 ## Icon Request
 
 * Icon name:
-* Use case:
 * Screenshots of similar icons:
