@@ -11,5 +11,9 @@
     "url": "git+https://github.com/markusoelhafen/fantasy-icons.git"
   },
   "author": "Markus Ölhafen <oelhafenmarkus@gmail.com> (http://markusoelhafen.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "core-js": "^3.6.4"
+  }
 }
