@@ -6,4 +6,4 @@
 
 Before creating an icon request, please search to see if someone has requested the icon already. If there is an open request, please add a :+1:.
 
-If the icon has not already been requested, [create an issue](https://github.com/markusoelhafen/fantasy-icons/issues/new?title=Icon%20Request:) with a title of `Icon request: <icon name>` and add as much information as possible.
+If the icon has not already been requested, [create an issue](https://github.com/markusoelhafen/fantasy-icons/issues/new?assignees=&labels=icon+request&template=icon_request.md&title=Icon+Request%3A+%5BName%5D) with a title of `Icon request: <icon name>` and add as much information as possible.
