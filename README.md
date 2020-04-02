@@ -1,4 +1,4 @@
-# Fantasy Icons v1.0
+# Fantasy Icons
 ## What is Fantasy Icons?
 Fantasy Icons is a collection of fantasy inspired open source icons (lord of the rings, dungeons & dragons, game of thrones, etc). Each icon is designed on a 24x24 grid.
 ## Usage
