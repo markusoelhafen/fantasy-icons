@@ -1,7 +1,5 @@
 ---
 name: Icon request
-title: Icon request: [Icon name]
-projects: Icon Design
 about: Suggest an new icon for this project
 ---
 
