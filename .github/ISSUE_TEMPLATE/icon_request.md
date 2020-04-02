@@ -4,7 +4,7 @@ about: Suggest an new icon for this project
 title: 'Icon Request: [Name]'
 labels: icon request
 assignees: ''
-
+projects: 'Icon Design'
 ---
 
 <!--
