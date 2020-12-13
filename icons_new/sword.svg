@@ -1,0 +1,17 @@
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  height="24"
+  width="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <polygon points="15.5 7.5 12.5 7.5 2.5 17.5 2.5 21.5 6.5 21.5 16.5 11.5 16.5 8.5 15.5 7.5"/>
+  <line x1="2.5" y1="21.5" x2="14.5" y2="9.5"/>
+  <rect x="15.79" y="1.14" width="1.41" height="12.73" rx="0.71" transform="translate(-0.47 13.86) rotate(-45)"/>
+  <path d="M21.5,2.5h0a1.42,1.42,0,0,1,0,2L18,8,16,6l3.5-3.5A1.42,1.42,0,0,1,21.5,2.5Z"/>
+  <line x1="19.5" y1="2.5" x2="21.5" y2="4.5"/>
+</svg>
