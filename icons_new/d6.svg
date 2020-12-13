@@ -1,0 +1,29 @@
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  height="24"
+  width="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M20.22,16.19V7.84a1,1,0,0,0-.5-.87L12.54,2.8a1,1,0,0,0-1,0L4.35,7a1,1,0,0,0-.5.87v8.35a1,1,0,0,0,.5.86l7.19,4.17a1,1,0,0,0,1,0l7.18-4.17A1,1,0,0,0,20.22,16.19Z"/>
+  <polyline points="20.22 7.26 12.04 12.01 3.85 7.26"/>
+  <line x1="12.04" y1="12.01" x2="12.04" y2="21.51"/>
+  <ellipse cx="12.41" cy="9.4" rx="0.58" ry="0.34" transform="translate(-0.05 0.07) rotate(-0.31)"/>
+  <ellipse cx="10.36" cy="8.22" rx="0.58" ry="0.34" transform="translate(-0.04 0.06) rotate(-0.31)"/>
+  <ellipse cx="8.31" cy="7.03" rx="0.58" ry="0.34" transform="translate(-0.04 0.05) rotate(-0.31)"/>
+  <ellipse cx="15.71" cy="7.49" rx="0.58" ry="0.34" transform="translate(-0.04 0.09) rotate(-0.31)"/>
+  <ellipse cx="13.66" cy="6.31" rx="0.58" ry="0.34" transform="translate(-0.03 0.07) rotate(-0.31)"/>
+  <ellipse cx="11.61" cy="5.13" rx="0.58" ry="0.34" transform="translate(-0.03 0.06) rotate(-0.31)"/>
+  <ellipse cx="5.85" cy="10.84" rx="0.34" ry="0.58" transform="translate(-4.67 4.43) rotate(-30.31)"/>
+  <ellipse cx="5.85" cy="15.57" rx="0.34" ry="0.58" transform="translate(-7.06 5.08) rotate(-30.31)"/>
+  <ellipse cx="7.91" cy="14.39" rx="0.34" ry="0.58" transform="translate(-6.18 5.96) rotate(-30.31)"/>
+  <ellipse cx="9.97" cy="13.22" rx="0.34" ry="0.58" transform="translate(-5.31 6.84) rotate(-30.31)"/>
+  <ellipse cx="9.97" cy="17.95" rx="0.34" ry="0.58" transform="translate(-7.7 7.49) rotate(-30.31)"/>
+  <ellipse cx="14.05" cy="13.19" rx="0.58" ry="0.34" transform="translate(-4.43 18.66) rotate(-59.69)"/>
+  <ellipse cx="16.11" cy="14.36" rx="0.58" ry="0.34" transform="translate(-4.42 21.02) rotate(-59.69)"/>
+  <ellipse cx="18.17" cy="15.54" rx="0.58" ry="0.34" transform="translate(-4.41 23.39) rotate(-59.69)"/>
+</svg>
